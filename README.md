@@ -15,9 +15,9 @@ Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando 
 - [Behavior Driven Development (BDD)](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
 - [Driven Development (TDD)](https://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 - [Component Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
-- [Storybook](https://storybook.js.org/)
-- [Jest](https://jestjs.io/)
-- [Vue](https://br.vuejs.org)
+- [Storybook Library](https://storybook.js.org/)
+- [Jest Framework](https://jestjs.io/)
+- [Vue Framework](https://br.vuejs.org)
 
 
 

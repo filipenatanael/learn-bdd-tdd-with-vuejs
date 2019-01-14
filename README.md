@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando Storybook para realizar a devida documentação dos componentes e comportamentos. Para realizar o Test Driven Development (TDD) será utilizado o framework Jest mantido pelo facebook. Utilizaremos corretamente os métodos **Describe** and **it** de forma a complementar a BDD das funcionalidade. Em alguns momento tambem utilizaremos do Component Driven Development (CDD).
+Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando Storybook para realizar a devida documentação dos componentes e comportamentos. Para realizar o Test Driven Development (TDD) será utilizado o framework Jest mantido pelo facebook. Utilizaremos corretamente os métodos <b>Describe<b> and <b>it<b> de forma a complementar a BDD das funcionalidade. Em alguns momentos também utilizaremos do Component Driven Development (CDD) no processo de desenvolvimento.
 </p>
 
 

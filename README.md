@@ -54,6 +54,11 @@ npm run build
 npm run test
 ```
 
+### Run your storybook
+```
+npm run storybook
+```
+
 ### Lints and fixes files
 ```
 npm run lint

@@ -19,6 +19,16 @@ Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando 
 - [Jest Framework](https://jestjs.io/)
 - [Vue Framework](https://br.vuejs.org)
 
+## Dependencies
+
+|  Dependencies | Versions |
+|---|---|
+|  jsdom | ^13.1.0 |
+|  jest | 21.2.1 |
+|  jest-vue-preprocessor | 1.3.1 |
+|  babel-preset-env | ^1.3.2 |
+|  babel-jest | ^23.4.0 |
+|  vue-server-renderer | ^2.5.21 |
 
 
 ## Project setup

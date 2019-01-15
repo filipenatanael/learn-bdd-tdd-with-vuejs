@@ -29,7 +29,10 @@ Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando 
 |  babel-preset-env | ^1.3.2 |
 |  babel-jest | ^23.4.0 |
 |  vue-server-renderer | ^2.5.21 |
-
+|  @babel/core | ^7.2.2 |
+|  babel-preset-vue | ^2.0.2 |
+|  babel-loader | ^8.0.5 |
+|  @storybook/vue | ^4.1.6 |
 
 ## Project setup
 ```

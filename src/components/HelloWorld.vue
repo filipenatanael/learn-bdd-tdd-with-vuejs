@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>{{ msg }}</h1>
+    <h1 v-if="msg">{{ msg }}</h1>
   </div>
 </template>
 
@@ -10,7 +10,7 @@ export default {
   props: {
     msg: {
       type: String,
-      default: 'Default message.'
+      // default: 'Default message.'
     }
   }
 }

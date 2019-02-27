@@ -1,9 +1,9 @@
-<p align="center"><a href="https://in.udacity.com/course/react-nanodegree--nd019" target="_blank"><img width="180" src="https://ramiresnascimento.files.wordpress.com/2017/08/tdd.png" alt="Repository logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img width="180" src="https://ramiresnascimento.files.wordpress.com/2017/08/tdd.png" alt="Repository logo"></a></p>
 
 <h1 align="center">Unit Testing TDD & BDD</h1>
 
 <p align="justify">
-Repositório dedicado ao estudo de Behavior Driven Development (BDD) utilizando Storybook para realizar a devida documentação dos componentes e comportamentos. Para realizar o Test Driven Development (TDD) será utilizado o framework Jest mantido pelo facebook. Utilizaremos corretamente os métodos <b>Describe</b> and <b>it</b> de forma a complementar a BDD das funcionalidade. Em alguns momentos também utilizaremos do Component Driven Development (CDD) no processo de desenvolvimento.
+Repositório dedicado ao estudo de <b>Behavior Driven Development (BDD)</b> e <b>Test Driven Development (TDD)</b> utilizado o framework <b>Jest</b> mantido pelo facebook, também será utilizado o dependências <b>storybook</b> para criar teste interativos de componentes. Em alguns momentos também utilizaremos do <b>Component Driven Development (CDD)</b> no processo de desenvolvimento.
 </p>
 
 
@@ -17,16 +17,16 @@ If you do not know the [Storybook](https://github.com/storybooks/storybook), is 
   npm install
   npm start
  
-  /* Run your tests */
+  ## Run your tests
   npm run test
   
-  /* Check out storybook */
+  ## Check out storybook
   npm run storybook
   
-  /* Compiles and minifies for production */
+  ## Compiles and minifies for production
   npm run build
   
-  /* Lints and fixes files */
+  ## Lints and fixes files
   npm run lint
 ```
 
@@ -49,8 +49,8 @@ If you do not know the [Storybook](https://github.com/storybooks/storybook), is 
 ## References
 
 - [Behavior Driven Development (BDD)](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
-- [Driven Development (TDD)](https://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 - [Component Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
+- [Driven Development (TDD)](https://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 - [Storybook Library](https://storybook.js.org/)
 - [Jest Framework](https://jestjs.io/)
 - [Vue Framework](https://br.vuejs.org)

@@ -45,13 +45,28 @@ If you do not know the [Storybook](https://github.com/storybooks/storybook), is 
 |  [@storybook/vue](https://github.com/storybooks/storybook) | ^4.1.6 | This allows you to develop UI components in isolation, which can improve component reuse, testability, and development speed. |
 
 
+## What's the difference between assertion library, testing framework and testing environment in javascript?
+
+**Assertion libraries** are tools to verify that things are correct.
+This makes it a lot easier to test your code, so you don't have to do thousands of **if** statements.
+
+**Testing frameworks** are used to organize and execute tests. This project we are using **Jest**, but you can use another like [Mocha](https://mochajs.org/), [Jasmine](https://jasmine.github.io/), [kurma](https://github.com/karma-runner/karma) these are most popular choices, you can searching others by [click here.](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+
+**Testing Environments** are the places where you run your tests.
+
+Karma is a bit of an edge case, in the sense that it's kind of a one off tool, not many like it. Karma works by running your unit tests inside of browsers (defaulting to PhantomJS, a headless WebKit browser), to allow you to test browser-based JavaScript code.
+
+Frameworks like Mocha and Jasmine work both in the browser and with Node.js, and usually default to Node.
 
 ## References
 
+- [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - [Behavior Driven Development (BDD)](https://www.sitepoint.com/bdd-javascript-cucumber-gherkin/)
 - [Component Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
 - [Driven Development (TDD)](https://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 - [Storybook Library](https://storybook.js.org/)
 - [Jest Framework](https://jestjs.io/)
 - [Vue Framework](https://br.vuejs.org)
+- [Assertion Libraries ](https://stackoverflow.com/questions/25678063/whats-the-difference-between-assertion-library-testing-framework-and-testing-ekurma)
+- [BDD para iniciantes com Node.JS, Mocha e Chai](https://medium.com/@hbarcelos/bdd-para-iniciantes-com-node-js-mocha-and-chai-649d13f9564)
 

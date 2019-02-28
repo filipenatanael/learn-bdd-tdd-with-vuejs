@@ -44,6 +44,7 @@ If you do not know the [Storybook](https://github.com/storybooks/storybook), is 
 |  [babel-loader](https://github.com/babel/babel-loader) | ^8.0.5 | This package allows transpiling JavaScript files using Babel and webpack. |
 |  [@storybook/vue](https://github.com/storybooks/storybook) | ^4.1.6 | This allows you to develop UI components in isolation, which can improve component reuse, testability, and development speed. |
 
+</br>
 
 ## What's the difference between assertion library, testing framework and testing environment in javascript?
 
@@ -57,6 +58,16 @@ This makes it a lot easier to test your code, so you don't have to do thousands 
 Karma is a bit of an edge case, in the sense that it's kind of a one off tool, not many like it. Karma works by running your unit tests inside of browsers (defaulting to PhantomJS, a headless WebKit browser), to allow you to test browser-based JavaScript code.
 
 Frameworks like Mocha and Jasmine work both in the browser and with Node.js, and usually default to Node.
+
+## Test Tools Types
+
+- Provide a **testing structure / Test Runners** (*Mocha, Jasmine, Jest, Cucumber*)
+- Provide **assertions functions** (*Chai, Jasmine, Jest, Unexpected*)
+- Generate, **display, and watch** test results (*Mocha, Jasmine, Jest, Karma*)
+- Generate and compare **snapshots** of component and data structures to make sure changes from previous runs are intended (*Jest, Ava*)
+- Provide **mocks, spies, and stubs** (*Sinon, Jasmine, enzyme, Jest, testdouble*)
+- Generate code **coverage** reports (*Istanbul, Jest, Blanket*)
+- Provide a **browser or browser-like environment** with a control on their scenarios execution (*Protractor, Nightwatch, Phantom, Casper*)
 
 ## References
 

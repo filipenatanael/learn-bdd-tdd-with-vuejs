@@ -3,7 +3,7 @@
 <h1 align="center">Unit Testing TDD & BDD</h1>
 
 <p align="justify">
-This repository is dedicated to the study of Behavior Driven Development (BDD) and Test Driven Development (TDD) using the Jest framework maintained by facebook, it will also be used the dependencies <b> storybook </ b> to create interactive component tests. At times we will also use <b> Component Driven Development (CDD) </ b> in the development process.
+This repository is dedicated to the study of Behavior Driven Development (BDD) and Test Driven Development (TDD) using the Jest framework maintained by facebook, it will also be used the dependencies <b> storybook </ b> to create interactive component tests. At times we will also use <b> Component Driven Development (CDD) </b> in the development process.
 </p>
 
 
